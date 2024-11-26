@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/fec39b5b-8e8f-438f-8903-a5633ecce706)
 ######explaination of Main.tf file####
 
 
